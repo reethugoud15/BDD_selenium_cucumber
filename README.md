@@ -12,6 +12,11 @@ This project demonstrates automated testing using Selenium and Cucumber. It incl
 - Maven
 - Chrome Browser
 - ChromeDriver
+
+## Project Structure
+
+![image](https://github.com/reethugoud15/BDD_selenium_cucumber/assets/59119031/27f1c20b-957d-4ae8-aa54-0af31355674b)
+
 ## Running Tests
 
 1. **Using Maven:**
