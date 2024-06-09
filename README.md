@@ -22,23 +22,4 @@ This project demonstrates automated testing using Selenium and Cucumber. It incl
    - Navigate to the `seleniumprac.StepDefinitions` package.
    - Right-click on the `TestRunner` class and select `Run 'TestRunner'`.
 
-## Project Structure 
-selenium-cucumber-project/
-│
-├── src/
-│ ├── main/
-│ │ └── java/
-│ │ └── seleniumprac/
-│ │ ├── StepDefinitions/
-│ │ │ ├── GoogleSearch.java
-│ │ │ └── TestRunner.java
-│ │ └── pages/
-│ │ └── GoogleSearchPOM.java
-│ └── test/
-│ └── resources/
-│ └── features/
-│ └── GoogleSearch.feature
-│
-├
-├── pom.xml
-└── README.md
+
