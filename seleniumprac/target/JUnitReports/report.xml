@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="9.614" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Check the Google Search Functionality" name="Validate the google search functionality - Example #1.1" time="5.533">
+<system-out><![CDATA[
+Given user is on the browser page...........................................passed
+When user enters "selenium".................................................passed
+Then user should be navigated to search results.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Check the Google Search Functionality" name="Validate the google search functionality - Example #1.2" time="3.832">
+<system-out><![CDATA[
+Given user is on the browser page...........................................passed
+When user enters "Java".....................................................passed
+Then user should be navigated to search results.............................passed
+]]></system-out>
+</testcase>
+</testsuite>
