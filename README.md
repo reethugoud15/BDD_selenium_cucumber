@@ -19,6 +19,10 @@ This project demonstrates automated testing using Selenium and Cucumber. It incl
 
 ## Running Tests
 
+
+https://github.com/user-attachments/assets/da2c40d9-f57c-4441-a4f5-90c3705777cb
+
+
 1. **Using Maven:**
     ```sh
     mvn test
